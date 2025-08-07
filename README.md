@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Building Myself**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 🧑‍🤝‍🧑 I’m looking to collaborate on **web development projects**
 
 - 💬 Ask me about **Node.js, React.js, Express.js, MongoDB**
 
